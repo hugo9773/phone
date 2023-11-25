@@ -344,7 +344,7 @@ export default [
 		alpha3: 'CHE',
 		country_code: '41',
 		country_name: 'Switzerland',
-		mobile_begin_with: ['74', '75', '76', '77', '78', '79'],
+		mobile_begin_with: ['74', '75', '76', '77', '78', '79', '21', '22', '24', '26', '27', '31', '32', '33', '34', '41', '43', '44', '52', '55', '56', '61', '62', '71', '81', '91'],
 		phone_number_lengths: [9]
 	},
 	{
@@ -611,7 +611,7 @@ export default [
 		alpha3: 'FRA',
 		country_code: '33',
 		country_name: 'France',
-		mobile_begin_with: ['6', '7'],
+		mobile_begin_with: ['1', '2', '3', '4', '5', '6', '7'],
 		phone_number_lengths: [9]
 	},
 	{
